@@ -1,0 +1,83 @@
+# Build outputs
+Builds/
+
+# Unity generated - rebuilt on open
+Chibi-Football/Library/
+Chibi-Football/Temp/
+Chibi-Football/obj/
+Chibi-Football/Logs/
+Chibi-Football/Recordings/
+Chibi-Football/MemoryCaptures/
+Chibi-Football/ExportedObj/
+
+# Unity/editor caches
+.vscode/
+Chibi-Football/.vs/
+Chibi-Football/.gradle/
+
+# Local AI assistant settings
+.claude/
+.codex/
+**/.claude/
+**/.codex/
+
+# IDE-generated project files (Unity regenerates these)
+Chibi-Football/*.csproj
+Chibi-Football/*.sln
+Chibi-Football/*.slnx
+Chibi-Football/*.DotSettings
+Chibi-Football/*.DotSettings.user
+Chibi-Football/*.unityproj
+Chibi-Football/*.suo
+Chibi-Football/*.tmp
+Chibi-Football/*.user
+Chibi-Football/*.userprefs
+Chibi-Football/*.pidb
+Chibi-Football/*.booproj
+Chibi-Football/*.svd
+Chibi-Football/*.pdb
+Chibi-Football/*.mdb
+Chibi-Football/*.opendb
+Chibi-Football/*.VC.db
+Chibi-Football/*.pidb.meta
+Chibi-Football/*.pdb.meta
+Chibi-Football/*.mdb.meta
+
+# User-specific editor settings
+Chibi-Football/UserSettings/
+
+# Crash reports
+Chibi-Football/sysinfo.txt
+Chibi-Football/mono_crash.*
+
+# Common Unity build artifacts
+*.apk
+*.aab
+*.app
+
+# Blender backup files imported by Unity
+*.blend1
+*.blend1.meta
+
+# Addressables generated content
+Chibi-Football/ServerData/
+Chibi-Football/Assets/StreamingAssets/aa*
+Chibi-Football/Assets/AddressableAssetsData/link.xml*
+Chibi-Football/Assets/AddressableAssetsData/*/*.bin*
+Chibi-Football/Assets/Addressables_Temp*
+
+# Visual Scripting generated caches
+Chibi-Football/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+Chibi-Football/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+Chibi-Football/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/
+Chibi-Football/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# TestRunner generated scenes
+Chibi-Football/InitTestScene*.unity*
+Chibi-Football/Assets/InitTestScene*.unity*
+
+# macOS
+.DS_Store
+
+# Burst debug artifacts in builds
+*_BurstDebugInformation_DoNotShip/

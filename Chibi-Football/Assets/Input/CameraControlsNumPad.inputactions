@@ -1,0 +1,54 @@
+{
+    "name": "CameraControlsNumPad",
+    "maps": [
+        {
+            "name": "CameraControls",
+            "id": "4139dc1e-41ba-4f73-bded-86883661de1d",
+            "actions": [
+                {
+                    "name": "1",
+                    "type": "Button",
+                    "id": "84756a5c-3285-45af-afc6-117ac1063c17",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "2",
+                    "type": "Button",
+                    "id": "fbac1ca6-1958-4e30-a381-d5fd58bb24ce",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ae967e47-5c73-4160-8729-d7c3edd47c89",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "83d8308e-638a-41ca-8fda-d261a687a89d",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
