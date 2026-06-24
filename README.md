@@ -1,6 +1,11 @@
 # Chibi Football Arena
 
-A Unity-based environment for training AI football players and simulating matches between models. Find out how good your AI football coaching abilities are. Also see companion projects:
+A Unity-based environment for training AI football players and simulating matches between models. Find out how good your AI football coaching abilities are. 
+
+![Chibi Character](docs/chibi-arena.gif)
+
+
+See also companion projects:
 - [Chibi Football Lab](https://github.com/elarry/chibi-football-lab): Train and simulate football players using this project's Unity environment.
 - [Chibi Football Player](https://github.com/elarry/chibi-football-player): Player model and animation using Blender.
 
