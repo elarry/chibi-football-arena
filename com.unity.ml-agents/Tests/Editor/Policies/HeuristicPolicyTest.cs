@@ -83,7 +83,7 @@ namespace Unity.MLAgents.Tests.Policies
 
         class ActionClearedActuatorComponent : ActuatorComponent
         {
-            public ActionClearedActuator ActionClearedActuator;
+            [System.NonSerialized] public ActionClearedActuator ActionClearedActuator;
             public ActionClearedActuatorComponent()
             {
                 ActionSpec = new ActionSpec(2, new[] { 3, 3 });

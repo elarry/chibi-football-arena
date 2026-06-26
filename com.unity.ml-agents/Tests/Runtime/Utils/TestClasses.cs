@@ -65,8 +65,8 @@ namespace Unity.MLAgents.Utils.Tests
         public int agentActionCallsForEpisode;
         public int agentOnEpisodeBeginCalls;
         public int heuristicCalls;
-        public TestSensor sensor1;
-        public TestSensor sensor2;
+        [NonSerialized] public TestSensor sensor1;
+        [NonSerialized] public TestSensor sensor2;
 
         [Observable("observableFloat")]
         public float observableFloat;

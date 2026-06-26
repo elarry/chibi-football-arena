@@ -2,7 +2,7 @@
 
 A Unity-based environment for training AI football players and simulating matches between models. Find out how good your AI football coaching abilities are. 
 
-![Chibi Character](docs/chibi-arena.gif)
+![Chibi Football Arena](docs/chibi-arena.gif)
 
 
 See also companion projects:
@@ -61,7 +61,7 @@ Chibi Football Arena adds the presentation, evaluation, and packaging layer need
 
 ### Prerequisites
 
-- Unity 6 (or whichever version this project demands)
+- Unity 6.5
 - [ML-Agents Python package](https://github.com/Unity-Technologies/ml-agents) (`pip install mlagents`)
 
 

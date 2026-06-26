@@ -34,7 +34,7 @@ namespace Unity.MLAgents.Inference
         // Since Type is not serializable, we use the DisplayType for the Inspector
         public Type DataType => k_TypeMap[valueType];
         public long[] shape;
-        public Tensor data;
+        [NonSerialized] public Tensor data;
 
         public long Height
         {
