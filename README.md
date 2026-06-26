@@ -2,7 +2,7 @@
 
 A Unity-based environment for training AI football players and simulating matches between models. Find out how good your AI football coaching abilities are. 
 
-![Chibi Football Arena](docs/chibi-arena.gif)
+![Chibi Football Arena](docs/chibi-gameplay-dynamic-camera.gif)
 
 
 See also companion projects:
